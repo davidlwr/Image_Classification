@@ -1,4 +1,5 @@
 # image-classification
+This repo contains a few tests that I have done regarding CNNs (Convolutional Neural Networks)
 
 Folders
 - "data"                  contains .csv files that contain relative paths to images
